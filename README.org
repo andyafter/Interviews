@@ -1,0 +1,11 @@
+Algorithm Practices
+
+
+
+* Objective
+This repository is to store the best possible code that I can write when solving Leetcode problems.
+
+* Running and Compilation
+Each code file contains a solution to a specific problem, however some coding platforms have the following compiling requirement:
+
+- g++ Main.cc -o Main -fno-asm -Wall -lm --static -std=c++0x -DONLINE_JUDGE
