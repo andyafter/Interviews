@@ -1,5 +1,6 @@
 * Algorithm Practices
-[[image-url:https://api.codacy.com/project/badge/Grade/1d69357750b645af960b490729f06e4b]]
+
+#+html: <a href="https://www.codacy.com/app/andyafter/Interviews?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=andyafter/Interviews&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/1d69357750b645af960b490729f06e4b"/></a>
 
 ** Objective
 This repository is to store the best possible code that I can write when solving Leetcode problems.
