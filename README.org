@@ -1,5 +1,5 @@
 * Algorithm Practices
-[[https://api.codacy.com/project/badge/Grade/1d69357750b645af960b490729f06e4b]]
+[[image-url:https://api.codacy.com/project/badge/Grade/1d69357750b645af960b490729f06e4b]]
 
 ** Objective
 This repository is to store the best possible code that I can write when solving Leetcode problems.
