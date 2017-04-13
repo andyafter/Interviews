@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 #include <algorithm>
 
 long long pre[100005];
